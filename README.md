@@ -1,1 +1,3 @@
-# A React boilerplate setup with webpack and babel
+# flexbox-projects
+
+A JavaScript project created while learning Flexbox
